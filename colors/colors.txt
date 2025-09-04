@@ -8,3 +8,6 @@
 4. Cyan
 5. Yellow
 6. Blue
+
+Printer Colors
+CYMK = Cyan, Yellow, Magenta, Black
